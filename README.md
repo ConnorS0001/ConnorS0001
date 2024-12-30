@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m currently learning Frontend Web Development through Bloomtech.
 <!--
 **ConnorS0001/ConnorS0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
